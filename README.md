@@ -1,4 +1,4 @@
-# NBA | How the game is changing.
+# NBA | How the game is changing
 
 ##### 1. Motivation.
 
@@ -7,6 +7,7 @@ The NBA is the world's top professional basketball league and has seen significa
 - Shift towards more versatile players.
 - Faster-paced gameplay.
 - Growing importance of three-point shots in the game.
+
 In addition, we have developed a model with the objective of predicting the NBA regular season MVP. This model incorporates the following components:
 - Independent Variables: player statistics, both base and advanced, along with the ranking of each player's team within the league.
 - Target Variable: the percentage of MVP votes received by each player.
