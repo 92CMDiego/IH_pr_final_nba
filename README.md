@@ -22,7 +22,9 @@ In addition, we have developed a model with the objective of predicting the NBA 
 
 The 'nba_api.ipynb' file is used to retrieve data from the NBA API. Most of the datasets analyzed in the project are collected here. These datasets are saved as CSV files for later analysis.
 
-In various subfolders ('advanced_stats,' 'rosters,' 'team_stats_fg'), we analyze datasets previously gathered.
+In various subfolders ('advanced_stats,' 'rosters,' 'team_stats_fg'), we analyze datasets previously gathered. You will find the CSV files with the data and the Jupyter notebook files used for analysis.
+
+#### 4. Shot charts.
 
 Within the 'shot_charts' folder, you will find the code used for generating shot charts using matplotlib. Please note that the dataset containing the shot locations (seasons 2003-04 to 2022-23) is not uploaded due to its large size.
 
